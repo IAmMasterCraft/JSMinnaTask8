@@ -1,0 +1,22 @@
+{
+  "name": "jsminnatask8",
+  "version": "1.0.0",
+  "description": "JS Minna Task 8 for Back End",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAmMasterCraft/JSMinnaTask8.git"
+  },
+  "author": "IAmMasterCraft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAmMasterCraft/JSMinnaTask8/issues"
+  },
+  "homepage": "https://github.com/IAmMasterCraft/JSMinnaTask8#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
